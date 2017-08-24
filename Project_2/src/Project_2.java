@@ -6,7 +6,6 @@ public class Project_2 {
 	public static void main(String[] args) {
 		System.out.println ("hi there");
 		System.out.print ("hi there");
-		//TODO Auto-generated method stub
 
 	}
 
