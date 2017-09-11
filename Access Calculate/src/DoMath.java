@@ -5,9 +5,8 @@
 public class DoMath {
 
 	public static void main(String[] args) {
-		Calculate.square(5);
-		System.out.println(Calculate.square(5));
-
+	System.out.println(Calculate.isDivisibleBy)(9, 3);
+	Calculate.isDivisibleBy(9, 3);
 	}
 
 }
